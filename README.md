@@ -1,1 +1,1 @@
-prjemde şaka üreten robot uygulaması yapılmıştır.
+projemde şaka üreten robot uygulaması yapılmıştır.
